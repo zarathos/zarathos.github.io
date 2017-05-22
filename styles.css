@@ -230,7 +230,7 @@ body .demo-blog {
   border-bottom-right-radius: 2px;
 }
 .demo-blog .on-the-road-again .mdl-card__media {
-  background-image: url('images/road.jpg');
+  background-image: url('images/card_1.jpg');
 }
 .demo-blog .shopping .mdl-card__media {
   background-image: url('images/shopping.jpg');
@@ -456,7 +456,7 @@ body .demo-blog {
 .demo-blog .minilogo {
   width: 44px;
   height: 44px;
-  background-image: url('images/avatar.png');
+  background-image: url('images/logo2.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: 50%;
